@@ -3,6 +3,10 @@
     font-family: Font;
 }
 
+body, main, button {
+    cursor: url(Cursor/CursorPre.png), auto;
+}
+
 body {
     background-image: url(Img/BG.png);
     background-repeat: no-repeat;
