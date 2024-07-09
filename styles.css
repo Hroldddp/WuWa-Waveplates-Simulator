@@ -1,0 +1,80 @@
+@font-face {
+    src: url(Fonts/Source\ Han\ Sans\ CN\ Regular.otf);
+    font-family: Font;
+}
+
+body {
+    background-image: url(Img/BG.png);
+    background-repeat: no-repeat;
+    background-color: black;
+    background-size: cover;
+
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+
+    font-family: Font;
+    font-size: 20px;
+    color: white;
+}
+
+main {
+    background-color: rgba(0,0,0,0.5);
+    backdrop-filter: blur(5px);
+
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+
+    margin-top: 100px;
+}
+
+.popup {
+    background-color: #f8f9f9;
+    text-align: center;
+    color: #010101;
+
+    width: 1000px;
+    height: auto;
+
+    padding: 30px 50px 50px 50px;
+    margin: 0px;
+}
+
+.popup h3 {
+    text-align: left;
+}
+
+.astrite {
+    background-color: rgba(128,128,128,0.5);
+}
+
+.astrite img {
+    width: 15%;
+}
+
+span {
+    color: gold;
+}
+
+.btns {
+    justify-content: space-between;
+    display: flex;
+}
+
+button {
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color: #010101;
+    border: transparent;
+
+    font-weight: bold;
+    color: #f8f9f9;
+    padding: 10px;
+    margin: 0px;
+
+    width: 150px;
+    height: 50px;
+    outline: 0;
+}
