@@ -1,0 +1,296 @@
+{
+	"style": "aki",
+	"radius": {
+		"common": "6"
+	},
+	"colors": {
+		"common": {
+			"text": {
+				"title": "FFFFFFFF",
+				"main": "FF181818",
+				"secondary": "FF181818",
+				"link": "FFBB9F5E",
+				"button": "FFFFFFFF",
+				"button2": "FF6C665E",
+				"button3": "FF5B544A",
+				"button4": "FF181818",
+				"label1": "FF6C665E",
+				"label2": "FF6C665E",
+				"label3": "FFFFFFFF",
+				"label4": "FFBB9F5E",
+				"edit": "FFAAAAAA"
+			},
+			"background": {
+				"edit": "FFF7F7F7",
+				"button": "FFD4D4D4",
+				"button1": "FFCECECE"
+			}
+		},
+		"pay_loading": {
+			    "background": "FF181818"
+		    },
+		"pay_result":{
+				"text1":"FF181818",
+				"text2":"FFBB9F5E",
+				"text3":"FF5B544A",
+				"text4":"FF181818"
+			}
+	},
+	"images": {
+		"common": {
+			"gray_btn_normal_80": {
+				"file": "\\skin\\res_common\\btn_gray_normal_80.png",
+				"scale9": "180,40,50,40"
+			},
+			"gray_btn_hover_80": {
+				"file": "\\skin\\res_common\\btn_gray_hover_80.png",
+				"scale9": "180,40,50,40"
+			},
+			"gray_btn_clicked_80": {
+				"file": "\\skin\\res_common\\btn_gray_clicked_80.png",
+				"scale9": "180,40,50,40"
+			},
+			"black_btn_normal_80": {
+				"file": "\\skin\\res_common\\btn_black_normal_80.png",
+				"scale9": "180,40,50,40"
+			},
+			"black_btn_hover_80": {
+				"file": "\\skin\\res_common\\btn_black_hover_80.png",
+				"scale9": "180,40,50,40"
+			},
+			"black_btn_clicked_80": {
+				"file": "\\skin\\res_common\\btn_black_clicked_80.png",
+				"scale9": "180,40,50,40"
+			},
+			"black_btn_normal_88": {
+				"file": "\\skin\\res_common\\btn_black_normal_88.png",
+				"scale9": "200,44,60,44"
+			},
+			"black_btn_hover_88": {
+				"file": "\\skin\\res_common\\btn_black_hover_88.png",
+				"scale9": "200,44,60,44"
+			},
+			"black_btn_clicked_88": {
+				"file": "\\skin\\res_common\\btn_black_clicked_88.png",
+				"scale9": "200,44,60,44"
+			},
+			"btn_black_disabled_88": {
+				"file": "\\skin\\res_common\\btn_black_disabled_88.png",
+				"scale9": "200,44,60,44"
+			},
+			"alert_bg_752": {
+				"file": "\\skin\\res_common\\alert_bg_752.png",
+				"scale9": "376,250,376,40"
+			},
+			"alert_bg_792": {
+				"file": "\\skin\\res_common\\alert_bg_792.png",
+				"scale9": "396,250,396,40"
+			},
+			"dlg_bg_752": {
+				"file": "\\skin\\res_common\\dlg_bg_752.png",
+				"scale9": "376,250,376,40"
+			},
+			"btn_back_normal_72": {
+				"file": "\\skin\\res_common\\btn_back_normal_72.png"
+			},
+			"btn_back_hover_72": {
+				"file": "\\skin\\res_common\\btn_back_hover_72.png"
+			},
+			"btn_back_clicked_72": {
+				"file": "\\skin\\res_common\\btn_back_clicked_72.png"
+			},
+			"check_box_normal_36": {
+				"file": "\\skin\\res_common\\check_box_normal_36.png"
+			},
+			"check_box_checked_36": {
+				"file": "\\skin\\res_common\\check_box_checked_36.png"
+			},
+			"kuro_game_logo_64": {
+				"file": "\\skin\\res_common\\kuro_game_logo_64.png"
+			},
+			"btn_close_normal_72": {
+				"file": "\\skin\\res_common\\btn_close_normal_72.png"
+			},
+			"btn_close_hover_72": {
+				"file": "\\skin\\res_common\\btn_close_hover_72.png"
+			},
+			"btn_close_clicked_72": {
+				"file": "\\skin\\res_common\\btn_close_clicked_72.png"
+			},
+			"btn_close_normal_48": {
+				"file": "\\skin\\res_common\\btn_close_normal_48.png"
+			},
+			"btn_close_hover_48": {
+				"file": "\\skin\\res_common\\btn_close_hover_48.png"
+			},
+			"btn_close_clicked_48": {
+				"file": "\\skin\\res_common\\btn_close_clicked_48.png"
+			},
+			"btn_view_password_48": {
+				"file": "\\skin\\res_common\\btn_view_password_48.png"
+			},
+			"btn_hide_password_48": {
+				"file": "\\skin\\res_common\\btn_hide_password_48.png"
+			},
+			"google_logo_normal_50": {
+				"file": "\\skin\\res_common\\google_logo_normal_50.png"
+			},
+			"google_logo_hover_50": {
+				"file": "\\skin\\res_common\\google_logo_hover_50.png"
+			},
+			"google_logo_clicked_50": {
+				"file": "\\skin\\res_common\\google_logo_clicked_50.png"
+			},
+			"facebook_logo_normal_50": {
+				"file": "\\skin\\res_common\\facebook_logo_normal_50.png"
+			},
+			"facebook_logo_hover_50": {
+				"file": "\\skin\\res_common\\facebook_logo_hover_50.png"
+			},
+			"facebook_logo_clicked_50": {
+				"file": "\\skin\\res_common\\facebook_logo_clicked_50.png"
+			},
+			"twitter_logo_normal_50": {
+				"file": "\\skin\\res_common\\twitter_logo_normal_50.png"
+			},
+			"twitter_logo_hover_50": {
+				"file": "\\skin\\res_common\\twitter_logo_hover_50.png"
+			},
+			"twitter_logo_clicked_50": {
+				"file": "\\skin\\res_common\\twitter_logo_clicked_50.png"
+			},
+			"apple_logo_normal_50": {
+				"file": "\\skin\\res_common\\apple_logo_normal_50.png"
+			},
+			"apple_logo_hover_50": {
+				"file": "\\skin\\res_common\\apple_logo_hover_50.png"
+			},
+			"apple_logo_clicked_50": {
+				"file": "\\skin\\res_common\\apple_logo_clicked_50.png"
+			},
+			"email_logo_50": {
+				"file": "\\skin\\res_common\\email_logo_50.png"
+			},
+			"apple_logo_80": {
+				"file": "\\skin\\res_common\\apple_logo_80.png"
+			},
+			"google_logo_80": {
+				"file": "\\skin\\res_common\\google_logo_80.png"
+			},
+			"facebook_logo_80": {
+				"file": "\\skin\\res_common\\facebook_logo_80.png"
+			},
+			"twitter_logo_80": {
+				"file": "\\skin\\res_common\\twitter_logo_80.png"
+			},
+			"line_logo_80": {
+				"file": "\\skin\\res_common\\line_logo_80.png"
+			},
+			"naver_logo_80": {
+				"file": "\\skin\\res_common\\naver_logo_80.png"
+			},
+			"dlg_bg_840": {
+				"file": "\\skin\\res_common\\dlg_bg_840.png"
+			},
+			"ico_success_88": {
+				"file": "\\skin\\res_common\\ico_success_88.png"
+			},
+			"ico_fail_88": {
+				"file": "\\skin\\res_common\\ico_fail_88.png"
+			},
+			"icon_loading_88": {
+				"file": "\\skin\\res_common\\icon_loading_88.png"
+			},
+			"line_logo_normal_50": {
+				"file": "\\skin\\res_common\\line_logo_normal_50.png"
+			},
+			"line_logo_hover_50": {
+				"file": "\\skin\\res_common\\line_logo_hover_50.png"
+			},
+			"line_logo_clicked_50": {
+				"file": "\\skin\\res_common\\line_logo_clicked_50.png"
+			},
+			"naver_logo_normal_50": {
+				"file": "\\skin\\res_common\\naver_logo_normal_50.png"
+			},
+			"naver_logo_hover_50": {
+				"file": "\\skin\\res_common\\naver_logo_hover_50.png"
+			},
+			"naver_logo_clicked_50": {
+				"file": "\\skin\\res_common\\naver_logo_clicked_50.png"
+			},
+			"more_logo_normal_50": {
+				"file": "\\skin\\res_common\\more_logo_normal_50.png"
+			},
+			"more_logo_hover_50": {
+				"file": "\\skin\\res_common\\more_logo_hover_50.png"
+			},
+			"more_logo_clicked_50": {
+				"file": "\\skin\\res_common\\more_logo_clicked_50.png"
+			},
+			"separator_32": {
+				"file": "\\skin\\res_common\\separator_32.png"
+			},
+			"separator_2": {
+				"file": "\\skin\\res_common\\separator_2.png"
+			}
+		},
+		"google": {
+			"icon_googleplay_40": {
+				"file": "\\skin\\res_google\\icon_googleplay_40.png"
+			}
+		},
+		"protocol": {
+			"protocol_btn_normal": {
+				"file": "\\skin\\res_protocol\\protocol_btn_normal.png"
+			},
+			"protocol_btn_hover": {
+				"file": "\\skin\\res_protocol\\protocol_btn_hover.png"
+			},
+			"protocol_btn_clicked": {
+				"file": "\\skin\\res_protocol\\protocol_btn_clicked.png"
+			}
+		},
+		"pay": {
+			"ico_pay_virtual_48": {
+				"file": "\\skin\\res_pay\\ico_pay_virtual_48.png"
+			},
+			"ico_weixin_48": {
+				"file": "\\skin\\res_pay\\ico_weixin_48.png"
+			},
+			"ico_zhifubao_48": {
+				"file": "\\skin\\res_pay\\ico_zhifubao_48.png"
+			},
+			"ico_pay_error_tips_176": {
+				"file": "\\skin\\res_pay\\ico_pay_error_tips_176.png"
+			},
+			"list_item_right_bg_36": {
+				"file": "\\skin\\res_pay\\list_item_right_bg_36.png"
+			},
+			"list_bg_normal_88": {
+				"file": "\\skin\\res_pay\\list_bg_normal_88.png"
+			},
+			"list_bg_sel_88": {
+				"file": "\\skin\\res_pay\\list_bg_sel_88.png"
+			},
+			"ico_pay_ali_44": {
+				"file": "\\skin\\res_pay\\ico_pay_ali_44.png"
+			},
+			"ico_pay_wechat_44": {
+				"file": "\\skin\\res_pay\\ico_pay_wechat_44.png"
+			},
+			"ico_pay_result_fail_88": {
+				"file": "\\skin\\res_pay\\ico_pay_result_fail_88.png"
+			},
+			"ico_pay_result_success_88": {
+				"file": "\\skin\\res_pay\\ico_pay_result_success_88.png"
+			},
+			"icon_loading_40": {
+				"file": "\\skin\\res_pay\\icon_loading_40.png"
+			},
+			"ico_pay_result_timeout_88":{
+				"file": "\\skin\\res_pay\\ico_pay_result_timeout_88.png"
+			}
+		}
+	}
+}
